@@ -3,7 +3,6 @@ import { View, StyleSheet, Text, ScrollView, Image} from "react-native";
 import MainHeader from "../components/MainHeader";
 import LipList from "../components/LipList";
 import BlushList from "../components/BlushList";
-import TabNav from "../navigation/TabNav";
 
 const HomeScreen = () => {
     return (
